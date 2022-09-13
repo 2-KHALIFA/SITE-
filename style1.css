@@ -120,6 +120,11 @@ ul li a:hover{
     position: relative;
 }
 
+.im{
+    text-align: center;
+    margin-top: 200px;
+}
+
 .content .par{
     padding-left: 20px;
     padding-bottom: 25px;
