@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+.im{
+    text-align: center;
+    margin-top: 200px;
+}
 .main{
     width: 100%;
     background: url(https://mopnantes.fr/wp-content/uploads/2021/08/Lune-bleu-1-800x450.jpg);
@@ -120,10 +124,6 @@ ul li a:hover{
     position: relative;
 }
 
-.im{
-    text-align: center;
-    margin-top: 200px;
-}
 
 .content .par{
     padding-left: 20px;
